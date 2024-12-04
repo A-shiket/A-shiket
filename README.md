@@ -1,6 +1,6 @@
 👋 Hi, I’m @A-shiket
 👀 I’m interested in Data Science and how it can transform industries like energy and nuclear physics.
-🌱 I’m currently learning Data Analysis and building proficiency in SQL, Python, Power BI and MS Azure.
+🌱 I’m currently working as a Data Analyst and building proficiency in SQL, Python, Power BI and MS Azure.
 💞️ I’m looking to collaborate on data-driven projects, especially those related to energy management, sustainability, or machine learning.
 📫 How to reach me: You can connect with me via linkedin or email
 😄 Pronouns: He/Him
